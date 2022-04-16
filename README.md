@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OHShreyas
+- 👋 Hi, I’m @OkShreyas
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java and sql
 - 💞️ I’m looking to collaborate on GUI projects
